@@ -1,6 +1,6 @@
 {
   "name": "kmd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "KMD — AI-era Markdown compiler: zero-dependency, compile-time AI blocks, llms.txt, live preview",
   "type": "commonjs",
   "bin": {
