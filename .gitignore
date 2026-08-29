@@ -1,0 +1,9 @@
+node_modules/
+.kmd-cache/
+.kmd-dev/
+site/
+out/
+demo/
+build/
+release/
+.kmd-studio.json
